@@ -1,6 +1,6 @@
 ---
 title: OpenVSCode Server
-description: An OpenVSCode Server example.
+description: An OpenVSCode Server example onPipeOps.
 tags:
   - gitpod
   - vscode
