@@ -12,7 +12,8 @@ tags:
 
 This example is for the [OpenVSCode Server](https://github.com/gitpod-io/openvscode-server), a version of VS Code that runs a server on a remote machine and allows access through a modern web browser. It's based on the very same architecture used by [Gitpod](https://www.gitpod.io) or [GitHub Codespaces](https://github.com) at scale.
 
-[![Deploy on PipeOps](https://railway.app/button.svg)](https://railway.app/new/template/openvscode)
+[![Deploy on PipeOps](https://pub-a1fbf367a4cd458487cfa3f29154ac93.r2.dev/Default.png)](https://railway.app/template/0ELOuE?referralCode=IQhE0B)
+
 ## ✨ Features
 
 - VS Code in a browser
